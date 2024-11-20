@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Yonis Yousuf
 #### Cloud Computing 
-![Cloud Computing ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+[![Cloud Computing ](](https://github.com/YonisY/YonisY/blob/main/github-header-image(1).png)
 
 I am Yonis from Canada! Welcome to my cloud computing portfolio! 
 Here, you'll find a collection of projects demonstrating my skills and knowledge in cloud architecture, deployment, and scalability. Each project explores real-world applications and emphasizes best practices in the cloud ecosystem. 
